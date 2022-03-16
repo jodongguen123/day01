@@ -8,5 +8,6 @@ public class Ex01 {
 		
 		System.out.print("출력");
 		System.out.print("합니다");
+		System.out.print("집에서 추가");
 	}
 }
